@@ -36,3 +36,33 @@ Mortgage calculator:
 -	The user can enter can loan amount, interest rate, loan term (in years), and property tax rate 
 -	The calculator display the estimated monthly mortgage payment
 -	The user has option to adjust the input values and recalculate the estimated monthly payment as much as needed
+
+Acceptance criteria
+
+1.	The "Property Search" button is prominently displayed on the website, and it leads to the property search interface.
+2.	Users can input various search criteria, including location, price range, number of bedrooms, and amenities.
+o	Users can specify location by city, neighborhood, ZIP code, or other relevant geographic information.
+o	Users can select or deselect common amenities and features, such as a swimming pool, garage, garden, etc.
+3.	The search results should display properties that match the specified criteria.
+
+Save Favorites:
+4.	 When browsing through property listings, users can see a "Save" icon next to each property.
+
+5.	Users can add properties to their list of saved favorites by clicking the "Save" icon.
+6.	Users can access and view their list of saved favorite properties from their user profile or a designated section of the website.
+7.	Users can remove properties from their saved favorites list.
+
+Request Visit to Property:
+8.	 Users can request a property viewing by clicking a "Request Viewing" button on the property listing.
+
+9.	Clicking "Request Viewing" opens a form or dialog where users can provide the following information and submit it:
+10.	Preferred date and time for the viewing appointment.
+11.	Contact information, including name, email address, and phone number.
+12.	After submitting the request, users receive a confirmation message indicating that the request has been received by the system.
+
+Mortgage Calculator: 
+13.	. There is a dedicated mortgage calculator tool accessible from the user dashboard.
+14.	Users can enter the loan amount, interest rate, loan term (in years), and property tax rate into the calculator.
+15.	The calculator displays the estimated monthly mortgage payment based on the input values.
+16.	Users can adjust the input values and recalculate the estimated monthly payment as needed.
+
